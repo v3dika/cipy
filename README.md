@@ -1,5 +1,5 @@
 # cipy
 
-very basic program to calculate the confidence intervals of a population 
-> #### uses the formulae below:
- <img src="https://i.imgur.com/f3Ouv5E.png" width="250">
+very basic program to calculate the confidence intervals of a population and a mean using python 
+
+made for BIOL0001 Quantitative Biology!
