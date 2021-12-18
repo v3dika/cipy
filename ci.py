@@ -88,5 +88,3 @@ if graph == "y":
     plt.show()
 
     
-if graph == "no":
-    ()
