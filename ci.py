@@ -86,5 +86,3 @@ if graph == "y":
     plt.legend(handles, labels, loc='best', fontsize='small', framealpha=1, edgecolor="k")
 
     plt.show()
-
-    
